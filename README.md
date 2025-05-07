@@ -1,4 +1,4 @@
-# MCA 1st Semester Python Programs
+MCA 1st Semester Python Programs
 
 This repository contains Python programs demonstrating **Object-Oriented Programming (OOP)** concepts such as inheritance, multiple inheritance, exception handling, and custom exceptions. These examples help in understanding OOP principles through practical implementations.
 
@@ -40,3 +40,5 @@ If you have any improvements or new programs to add, feel free to open a pull re
 ---
 
 📌 **Developed for MCA 1st Semester Python OOP Concepts.** 🚀
+
+
