@@ -6,7 +6,7 @@ This repository contains Python programs demonstrating **Object-Oriented Program
 - **Classes & Objects**: Basic implementation of OOP principles.  
 - **Inheritance**: Single, multiple, and multi-level inheritance.  
 - **Method Overriding**: Demonstration of `super()` for method calls.  
-- **Custom Exceptions**: Handling errors using user-defined exceptions.  
+- **Custom Exceptions**: Handling errors using user-defined exceptions.   
 
 ## 📂 Programs Included   
 1. **Bank Account Management**  
