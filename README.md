@@ -4,7 +4,7 @@ This repository contains Python programs demonstrating **Object-Oriented Program
 
 ## 🚀 Features       
 - **Classes & Objects**: Basic implementation of OOP principles.  
-- **Inheritance**: Single, multiple, and multi-level inheritance.  
+- **Inheritance**: Single, multiple, and multi-level inheritance.   
 - **Method Overriding**: Demonstration of `super()` for method calls.  
 - **Custom Exceptions**: Handling errors using user-defined exceptions.     
 
